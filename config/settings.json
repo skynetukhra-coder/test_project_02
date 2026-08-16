@@ -1,0 +1,5 @@
+{
+    "setting_daily_limit": "1000",
+    "setting_total_users_limit": "1000",
+    "setting_upi_gateway": "Enabled"
+}
